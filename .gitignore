@@ -1,2 +1,14 @@
+# Docker e Banco
+postgres_data/
+.env
 
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Django
 db.sqlite3
+media/
+staticfiles/
